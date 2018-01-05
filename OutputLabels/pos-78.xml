@@ -1,0 +1,25 @@
+<annotation>
+    <folder>NFPA dataset</folder>
+    <filename>pos-33.jpg</filename>
+    <path>/home/rishab/Desktop/LabelingData/NFPA dataset/pos-78'.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>676</width>
+        <height>660</height>
+        <depth>3</depth>
+    </size>
+        <object>
+            <name>nfpa</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>148</xmin>
+                <ymin>141</ymin>
+                <xmax>523</xmax>
+                <ymax>515</ymax>
+            </bndbox>
+        </object>
+    </annotation>
